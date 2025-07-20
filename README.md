@@ -12,7 +12,7 @@
 
 ## 🔧 技术专栏
 - 🌐 [我的博客](https://s0ralin.github.io)
-- 📘 [CSDN 专栏](https://csdn.net/yourlink)
+- 📘 [CSDN 专栏](https://blog.csdn.net/bit_10)
 
 ## 📫 联系我
 - ✉️ Email: yourname@example.com
