@@ -12,11 +12,3 @@
 ## 📊 我的 GitHub 统计
 ![s0raLin 的 GitHub stats](https://github-readme-stats.vercel.app/api?username=s0raLin&show_icons=true&theme=tokyonight)
 
-## 🔧 技术专栏
-- 🌐 [我的博客](https://s0ralin.github.io)
-- 📘 [CSDN 专栏](https://blog.csdn.net/bit_10)
-
-
-## 📫 联系我
-- ✉️ Email: yourname@example.com
-
