@@ -1,14 +1,42 @@
-# 👋 你好，我是 蒼璃！
+# 你好，我是 蒼璃！
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1937FF&background=0A0A0A00&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.+Nulla+lobortis+placerat+enim+nec+cursus.+Ut+et+elit+congue%2C+facilisis+dui+id%2C+efficitur+velit.+Integer+faucibus+velit+varius+arcu+consectetur+aliquam.+Sed+dui+ante%2C+euismod+non+malesuada+vel%2C+suscipit+vel+elit.+Nullam+tempor+vehicula+urna%2C+sed+dignissim+ligula+hendrerit+in.+Orci+varius+natoque+penatibus+et+magnis+dis+parturient+montes%2C+nascetur+ridiculus+mus.+Proin+et+nisi+eget+nunc+vehicula+posuere.+Nam+elementum+finibus+auctor.+Suspendisse+a+mauris+et+arcu+molestie+egestas+sed+et+dolor.+Nullam+ut+est+tristique%2C+iaculis+tortor+non%2C+viverra+felis.+Praesent+a+tincidunt+tellus%2C+eget+congue+eros.+Mauris+non+libero+nec+ipsum+ultricies+tincidunt+sit+amet+nec+ante.+Duis+molestie+sem+at+ligula+rhoncus+viverra.+Pellentesque+sit+amet+tortor+euismod%2C+rhoncus+lacus+a%2C+sodales+odio.+Proin+ac+convallis+ipsum.+Cras+tincidunt+mollis+consequat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=热爱技术~;喜欢写博客~;探索世界~;Arch+Linux+爱好者;正在学习Java+与+Spring;一路折腾一路成长~)](https://git.io/typing-svg)
 
-热爱技术 💻 | 喜欢写博客 ✍️ | 探索世界 🌏
+---
 
-## 🚀 技术栈
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+## ≡ 技术栈 ≡
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-## 📊 我的 GitHub 统计
-![s0raLin 的 GitHub stats](https://github-readme-stats.vercel.app/api?username=s0raLin&show_icons=true&theme=tokyonight)
+---
 
+## ✦ GitHub 统计 ✦
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s0raLin&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0raLin&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## ❖ 动态贡献图 ❖
+<p align="center">
+  <img src="https://raw.githubusercontent.com/s0raLin/s0raLin/output/github-contribution-grid-snake.svg" alt="contribution-snake"/>
+</p>
+
+---
+
+## ≈ 关于我 ≈
+- Linux 爱好者，正在折腾 Arch Linux  (｀･ω･´)ゞ  
+- 学习 Java / Spring / 数据库 / 系统底层  (ง •̀_•́)ง  
+- 喜欢音乐、写博客、做一些有趣的小项目  (｡･∀･)ﾉﾞ  
+- 想要打造属于自己的工具与系统  (⌒▽⌒)☆  
+
+---
+
+✧ 如果你喜欢，可以点个 **Star** 支持一下~ (≧▽≦)/
