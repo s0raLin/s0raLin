@@ -1,8 +1,7 @@
 # 你好，我是 蒼璃！
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=600&lines=热爱技术~;喜欢写博客~;探索世界~;Arch+Linux+爱好者;正在学习Java+与+Spring;一路折腾一路成长~" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=热爱技术~;喜欢写博客~;探索世界~;Arch+Linux+爱好者;正在学习Java+与+Spring;一路折腾一路成长~)](https://git.io/typing-svg)
+
 
 
 
