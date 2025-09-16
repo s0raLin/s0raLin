@@ -24,13 +24,6 @@
 
 ---
 
-## ❖ 动态贡献图 ❖
-<p align="center">
-  ![Snake animation](https://raw.githubusercontent.com/s0raLin/s0raLin/output/snake.svg#gh-dark-mode-only)
-</p>
-
----
-
 ## ≈ 关于我 ≈
 - Linux 爱好者，正在折腾 Arch Linux  (｀･ω･´)ゞ  
 - 学习 Java / Spring / 数据库 / 系统底层  (ง •̀_•́)ง  
