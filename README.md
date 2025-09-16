@@ -26,7 +26,7 @@
 
 ## ❖ 动态贡献图 ❖
 <p align="center">
-  <img src="https://raw.githubusercontent.com/s0raLin/s0raLin/output/github-contribution-grid-snake.svg" alt="contribution-snake"/>
+  ![Snake animation](https://raw.githubusercontent.com/s0raLin/s0raLin/output/snake.svg#gh-dark-mode-only)
 </p>
 
 ---
