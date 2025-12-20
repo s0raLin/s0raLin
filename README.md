@@ -71,10 +71,6 @@ impl Developer for s0raLin {
   </table>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/s0raLin/s0raLin/snake/github-contribution-grid-snake.svg" width="48%" />
-  <img src="https://github.com/s0raLin/s0raLin/main/gitartwork.svg" width="48%" />
-</div>
 
 
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
