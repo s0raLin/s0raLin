@@ -27,8 +27,8 @@
     </td>
     <td width="40%" valign="top">
       <h3>Coding Status 🦀</h3>
-```rust
-     impl Developer for s0raLin {
+<pre lang="rust" style="width: 100%">
+impl Developer for s0raLin {
     fn info() -> Bio {
         Bio {
             os: "Arch Linux",
@@ -37,7 +37,7 @@
         }
     }
 }
-```
+</pre>
     </td>
     <td width="25%" valign="center" align="right">
       <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="200px"/>
