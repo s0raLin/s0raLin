@@ -30,12 +30,8 @@
 ### info 🌱
 
 - 🐧 Arch Linux 深度用户，折腾过 **安装器 / 发行版 / WM**
-- ☕ 主力语言：**Java / Go / Kotlin**
+- ☕ 主力语言：**Rust / Go / Kotlin**
 - 🔧 熟悉：Linux、Btrfs、systemd、Shell
-- 🚀 正在学习：  
-  - Java 多线程 & Spring 体系  
-  - Go 后端工程化  
-  - 操作系统 & 文件系统实现
 - 🎮 喜欢写 **模拟类 / 系统类 / 小型引擎项目**
 
 <br/>
