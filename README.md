@@ -1,39 +1,84 @@
-# 你好，我是 蒼璃 (s0raLin)
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif" width="42"/>
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+蒼璃+%28s0raLin%29;Arch+Linux+%7C+Backend+Dev&center=true&size=27" />
+  </a>
+</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend_Development-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/System-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white">
-  <img src="https://img.shields.io/github/stars/s0raLin?style=flat-square&color=ffd700&label=Total%20Stars">
-</p>
+### Hi there 👋
+我是 **蒼璃（s0raLin）**，一名来自中国的开发者 🇨🇳  
+热爱 **Linux / 开源 / 底层原理 / 后端开发**  
 
----
+🧠 *“折腾系统，是我理解世界的方式”*
 
-### 技术栈
+![](https://moe-counter.glitch.me/get/@:s0raLin?theme=rule34)
 
-<table>
-  <tr>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
-        <br>后端
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=linux,arch,bash" />
-        <br>系统/运维
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git,docker,maven" />
-        <br>工具/构建
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=idea,vscode,md" />
-        <br>开发环境
-    </td>
-  </tr>
-</table>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" height="280" />
 
 ---
 
+### about 📚  
+| 项目 | 链接 |
+| ---- | ---- |
+| 博客 | 规划中 / GitHub Pages |
+| 系统 | Arch Linux · KDE / Hyprland |
+| 方向 | 后端 · 操作系统 · Linux 底层 |
+| 昵称 | 蒼璃 / s0raLin |
 
-<p align="center">
-  ✧ 如果我的项目对你有帮助，欢迎点个 <b>Star</b> 支持一下~ (≧▽≦)/
-</p>
+---
+
+### info 🌱
+
+- 🐧 Arch Linux 深度用户，折腾过 **安装器 / 发行版 / WM**
+- ☕ 主力语言：**Java / Go / Kotlin**
+- 🔧 熟悉：Linux、Btrfs、systemd、Shell
+- 🚀 正在学习：  
+  - Java 多线程 & Spring 体系  
+  - Go 后端工程化  
+  - 操作系统 & 文件系统实现
+- 🎮 喜欢写 **模拟类 / 系统类 / 小型引擎项目**
+
+<br/>
+<br/>
+<br/>
+
+![s0raLin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s0raLin&theme=github-compact)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s0raLin&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0raLin&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+---
+
+![Snake animation Light](https://github.com/s0raLin/s0raLin/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📌 Pinned Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s0raLin&repo=arch-installer-java)](https://github.com/s0raLin/arch-installer-java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s0raLin&repo=linux-filesystem-simulator)](https://github.com/s0raLin/linux-filesystem-simulator)
+
+---
+
+<details>
+<summary>💖 Other / 有趣的网站</summary>
+
+#### 🎮 在线游戏 / 模拟
+- [在线 DOS 游戏](https://dos.zczc.cz/games/)
+- [老游戏在线玩](https://zaixianwan.app/)
+- [俄罗斯方块（Flutter）](https://boyan01.github.io/flutter-tetris/#/)
+
+#### 🧠 有趣项目
+- [此人不存在](https://thispersondoesnotexist.com/)
+- [流体模拟](https://david.li/fluid)
+- [无用的网站](https://theuselessweb.com/)
+
+#### 📚 学习 / 认知
+- [全历史](https://www.allhistory.com)
+- [开发者生态系统报告](https://www.jetbrains.com/zh-cn/lp/devecosystem-2023/)
+- [性格测试](https://www.16personalities.com/)
+
+</details>
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
