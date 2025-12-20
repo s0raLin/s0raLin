@@ -9,8 +9,8 @@
   <tr>
     <td width="40%" valign="top" style="padding-right: 10px;">
       <h3>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/></h3>
-      我是  **蒼璃（s0raLin）**  <br/>
-      热爱 **Linux / 底层原理 / 后端** <br/>
+      我是 <b>蒼璃（s0raLin）</b> <br/>
+      熱愛 <b>Linux / 底層原理 / 後端</b> <br/>
       <img src="https://moe-counter.glitch.me/get/@:s0raLin?theme=rule34" />
       <br/><br/>
       <b>Toolkit 🔧</b><br/>
@@ -64,6 +64,9 @@ impl Developer for s0raLin {
   </table>
 </div>
 
-
-
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<div align="left" style="width: 100%;">
+  我是 <b>蒼璃（s0raLin）</b> <br/>
+  熱愛 <b>Linux / 底層原理 / 後端</b>
+</div>
