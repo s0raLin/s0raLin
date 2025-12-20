@@ -45,6 +45,7 @@ impl Developer for s0raLin {
   </tr>
 </table>
 
+  <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="280"/>
 <br/>
 
 <div align="center">
@@ -69,6 +70,4 @@ impl Developer for s0raLin {
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="80%"/>
-  <br/><br/>
-  <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="280"/>
 </div>
