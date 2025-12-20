@@ -2,7 +2,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="48"/>
   <br/>
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+蒼璃+(s0raLin);Arch+Linux+%7C+Rust+%7C+Backend&center=true&size=30&duration=4000&width=600&height=80" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log("Hello, World")&center=true&size=30&duration=4000&width=600&height=80" />
   </a>
 </h1>
 
