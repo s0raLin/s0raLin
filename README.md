@@ -14,7 +14,7 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="35%" valign="top">
+    <td width="30%" valign="top">
       <h3>Hi there </h3>
       我是 <b>蒼璃（s0raLin）</b> <br/>
       熱愛 <b>Linux / 底層原理 / 後端</b> <br/>
@@ -39,7 +39,7 @@ impl Developer for s0raLin {
 }
 </pre>
     </td>
-    <td width="25%" valign="center" align="right">
+    <td width="30%" valign="center" align="right">
       <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="200px"/>
     </td>
   </tr>
