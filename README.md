@@ -14,7 +14,7 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="30%" valign="top" style="padding-right: 10px;">
+    <td width="35%" valign="top">
       <h3>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/></h3>
       我是 <b>蒼璃（s0raLin）</b> <br/>
       熱愛 <b>Linux / 底層原理 / 後端</b> <br/>
@@ -25,10 +25,9 @@
       • <b>Linux:</b> <code>Arch</code> <code>Btrfs</code> <code>KDE</code><br/>
       • <b>Editor:</b> <code>Neovim</code>
     </td>
-
-    <td width="45%" valign="top">
+    <td width="40%" valign="top">
       <h3>Coding Status 🦀</h3>
-<pre lang="rust" style="width: 100%">
+<pre>
 impl Developer for s0raLin {
     fn info() -> Bio {
         Bio {
@@ -37,15 +36,11 @@ impl Developer for s0raLin {
             goal: "High Performance",
         }
     }
-    fn status(&self) {
-        println!("Coding the future...");
-    }
 }
 </pre>
     </td>
-
-    <td width="25%" valign="bottom" align="right">
-      <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="100%"/>
+    <td width="25%" valign="center" align="right">
+      <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="200px"/>
     </td>
   </tr>
 </table>
@@ -61,15 +56,17 @@ impl Developer for s0raLin {
 
 <br/>
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=s0raLin&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=12&hide_border=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s0raLin&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=12&hide_border=true"/>
     </td>
-    <td align="center">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0raLin&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true"/>
+    <td align="center" style="padding-left: 10px;">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0raLin&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true"/>
     </td>
   </tr>
 </table>
 
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="80%"/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="80%"/>
+</div>
