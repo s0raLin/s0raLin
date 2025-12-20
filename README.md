@@ -16,19 +16,19 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
         <br>后端/数据库
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=linux,arch,bash" />
         <br>系统/运维
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=git,docker,maven" />
         <br>工具/构建
     </td>
-    <td align="center" width="96">
+    <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=idea,vscode,md" />
         <br>开发环境
     </td>
