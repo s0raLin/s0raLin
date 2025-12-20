@@ -9,7 +9,7 @@
   <tr>
     <td width="40%" valign="top" style="padding-right: 10px;">
       <h3>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/></h3>
-      我是 **蒼璃（s0raLin）** 🇨🇳 <br/>
+      我是  **蒼璃（s0raLin）**  <br/>
       热爱 **Linux / 底层原理 / 后端** <br/>
       <img src="https://moe-counter.glitch.me/get/@:s0raLin?theme=rule34" />
       <br/><br/>
