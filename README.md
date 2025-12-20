@@ -64,4 +64,4 @@ func main() {
   </tr>
 </table>
 
- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="80%"/>
+ <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="100%"/>
