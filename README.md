@@ -6,10 +6,6 @@
   </a>
 </h1>
 
-<div align="center">
-  <img src="https://moe-counter.glitch.me/get/@:s0raLin?theme=rule34" alt="Visitor Count"/>
-</div>
-
 <br/>
 <div align="center">
   
