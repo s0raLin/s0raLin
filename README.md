@@ -5,29 +5,22 @@
   </a>
 </h1>
 
-<table width="100%" border="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="55%" valign="top">
+    <td width="40%" valign="top" style="padding-right: 10px;">
       <h3>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/></h3>
-      我是 **蒼璃（s0raLin）**，一名来自中国的开发者 🇨🇳 <br/>
-      热爱 **Linux / 开源 / 底层原理 / 后端开发** <br/>
-      <img src="https://moe-counter.glitch.me/get/@:s0raLin?theme=rule34" /><br/>
-      <br/>
-      <b>Toolkit 🔧</b>
-      <table width="100%">
-        <tr>
-          <td><b>Langs</b></td>
-          <td><code>Rust</code> <code>Go</code> <code>Kotlin</code> <code>C</code></td>
-        </tr>
-        <tr>
-          <td><b>Linux</b></td>
-          <td><code>Btrfs</code> <code>Systemd</code> <code>Shell</code> <code>KDE</code></td>
-        </tr>
-      </table>
+      我是 **蒼璃（s0raLin）** 🇨🇳 <br/>
+      热爱 **Linux / 底层原理 / 后端** <br/>
+      <img src="https://moe-counter.glitch.me/get/@:s0raLin?theme=rule34" />
+      <br/><br/>
+      <b>Toolkit 🔧</b><br/>
+      • <b>Langs:</b> <code>Rust</code> <code>Go</code> <code>C</code><br/>
+      • <b>Linux:</b> <code>Arch</code> <code>Btrfs</code> <code>KDE</code><br/>
+      • <b>Editor:</b> <code>Neovim</code>
     </td>
-    <td width="45%" valign="top">
+    <td width="60%" valign="top">
       <h3>Coding Status 🦀</h3>
-<pre lang="rust">
+<pre lang="rust" style="width: 100%">
 impl Developer for s0raLin {
     fn info() -> Bio {
         Bio {
