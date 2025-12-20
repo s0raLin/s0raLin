@@ -15,7 +15,7 @@
   
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="30%" valign="top">
+    <td width="20%" valign="top">
       <h3>Hi there </h3>
       我是 <b>蒼璃（s0raLin）</b> <br/>
       熱愛 <b>Linux / 底層原理 / 後端</b> <br/>
@@ -36,7 +36,7 @@ func main() {
 }
 </pre>
     </td>
-    <td width="30%" valign="center" align="right">
+    <td width="40%" valign="center" align="right">
       <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="200px"/>
     </td>
   </tr>
