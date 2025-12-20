@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-  <a href="https://zhoushaoting.com/">
+  <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;I'm+蒼璃+%28s0raLin%29;Arch+Linux+%7C+Backend+Dev&center=true&size=27&width=500" />
   </a>
 </h1>
@@ -13,10 +13,16 @@
       热爱 **Linux / 开源 / 底层原理 / 后端开发** <br/>
       <img src="https://moe-counter.glitch.me/get/@:s0raLin?theme=rule34" /><br/>
       <br/>
-      <b>about 📚</b>
+      <b>Toolkit 🔧</b>
       <table width="100%">
-        <tr><td><b>博客</b></td><td><a href="https://zhoushaoting.com/">blog</a></td><td><a href="https://www.cnblogs.com/shaoting/">cnblogs</a></td></tr>
-        <tr><td><b>其它</b></td><td>QQ: 510738319</td><td>Wechat: shaoting0730</td></tr>
+        <tr>
+          <td><b>Langs</b></td>
+          <td><code>Rust</code> <code>Go</code> <code>Kotlin</code> <code>C</code></td>
+        </tr>
+        <tr>
+          <td><b>Linux</b></td>
+          <td><code>Btrfs</code> <code>Systemd</code> <code>Shell</code> <code>KDE</code></td>
+        </tr>
       </table>
     </td>
     <td width="45%" valign="top">
@@ -44,7 +50,7 @@ impl Developer for s0raLin {
 <table width="100%" border="0">
   <tr>
     <td width="65%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaoting0730&theme=github-compact&area=true&hide_border=true" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=s0raLin&theme=github-compact&area=true&hide_border=true" width="100%" />
     </td>
     <td width="35%" align="center">
       <img alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="100%" />
@@ -56,35 +62,27 @@ impl Developer for s0raLin {
   <table width="100%" border="0">
     <tr>
       <td align="center" width="50%">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaoting0730&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s0raLin&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10"/>
       </td>
       <td align="center" width="50%">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaoting0730&layout=compact&langs_count=7&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0raLin&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github.com/shaoting0730/shaoting0730/blob/snake/github-contribution-grid-snake-light.svg" width="48%" />
-  <img src="https://github.com/shaoting0730/shaoting0730/blob/main/gitartwork.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/s0raLin/s0raLin/snake/github-contribution-grid-snake.svg" width="48%" />
+  <img src="https://github.com/s0raLin/s0raLin/main/gitartwork.svg" width="48%" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/shaoting0730/Flutter_learn_demo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaoting0730&repo=Flutter_learn_demo" />
+  <a href="https://github.com/s0raLin/your-repo-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0raLin&repo=your-repo-name&theme=tokyonight" />
   </a>
-  <a href="https://github.com/shaoting0730/rust-learn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaoting0730&repo=rust-learn" />
+  <a href="https://github.com/s0raLin/another-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0raLin&repo=another-repo&theme=tokyonight" />
   </a>
 </div>
-
-<details>
-<summary>💖 Other Links</summary>
-
-####      [ 俄罗斯方块 ]( https://boyan01.github.io/flutter-tetris/#/ )    <br/>
-####      [ 速听《三体》]( https://www.youtube.com/watch?v=QO25QnboJG0&list=PLUm1zvJ4-ufdtpMfD800oTw2hB5ghwabA&index=2&t=0s )    <br/>
-####      [ 更多内容请点击展开... ]( # )
-</details>
 
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
