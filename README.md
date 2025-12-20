@@ -12,38 +12,35 @@
 
 <br/>
 
-<table width="100%" align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- 左侧个人信息 -->
-    <td width="42%" valign="top">
-      <h3>👋 Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32"/></h3>
-      <p>
-        我是 <strong>蒼璃（s0raLin）</strong><br/>
-        熱愛 <strong>Linux / 底層原理 / 後端</strong>
-      </p>
-      <br/>
-      <strong>🔧 Toolkit</strong><br/>
-      • <strong>Langs:</strong> <code>Rust</code> <code>Go</code> <code>C</code><br/>
-      • <strong>OS:</strong> <code>Arch Linux</code> + <code>Btrfs</code> + <code>KDE Plasma</code><br/>
-      • <strong>Editor:</strong> <code>Neovim</code> ❤️
+    <td width="40%" valign="top" style="padding-right: 10px;">
+      <h3>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/></h3>
+      我是 <b>蒼璃（s0raLin）</b> <br/>
+      熱愛 <b>Linux / 底層原理 / 後端</b> <br/>
+      <img src="https://moe-counter.glitch.me/get/@:s0raLin?theme=rule34" />
+      <br/><br/>
+      <b>Toolkit 🔧</b><br/>
+      • <b>Langs:</b> <code>Rust</code> <code>Go</code> <code>C</code><br/>
+      • <b>Linux:</b> <code>Arch</code> <code>Btrfs</code> <code>KDE</code><br/>
+      • <b>Editor:</b> <code>Neovim</code>
     </td>
-
-    <!-- 右侧代码卡片 -->
-    <td width="58%" valign="top">
-      <h3>🦀 Coding Status</h3>
-      <pre style="background:#1a1b27;border-radius:12px;padding:16px;overflow-x:auto;">
-<span style="color:#89ddff;">impl</span> <span style="color:#c792ea;">Developer</span> <span style="color:#89ddff;">for</span> s0raLin {
-    <span style="color:#89ddff;">fn</span> <span style="color:#82aaff;">info</span>() -> Bio {
+    <td width="60%" valign="top">
+      <h3>Coding Status 🦀</h3>
+<pre lang="rust" style="width: 100%">
+impl Developer for s0raLin {
+    fn info() -> Bio {
         Bio {
-            os:      <span style="color:#c3e88d;">"Arch Linux"</span>,
-            editor:  <span style="color:#c3e88d;">"Neovim"</span>,
-            goal:    <span style="color:#c3e88d;">"High Performance & Elegance"</span>,
+            os: "Arch Linux",
+            editor: "Neovim",
+            goal: "High Performance",
         }
     }
-    <span style="color:#89ddff;">fn</span> <span style="color:#82aaff;">status</span>(&self) {
-        <span style="color:#89ddff;">println!</span>(<span style="color:#c3e88d;">"Coding the future..."</span>);
+    fn status(&self) {
+        println!("Coding the future...");
     }
-}</pre>
+}
+</pre>
     </td>
   </tr>
 </table>
