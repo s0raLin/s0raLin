@@ -18,7 +18,7 @@
   <tr>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
-        <br>后端/数据库
+        <br>后端
     </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=linux,arch,bash" />
