@@ -11,7 +11,8 @@
 </div>
 
 <br/>
-
+<div align="center">
+  
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="30%" valign="top">
@@ -44,7 +45,7 @@ impl Developer for s0raLin {
     </td>
   </tr>
 </table>
-
+</div>
 <br/>
 
 <div align="center">
