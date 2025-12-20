@@ -45,18 +45,6 @@ impl Developer for s0raLin {
   </tr>
 </table>
 
----
-
-<table width="100%" border="0">
-  <tr>
-    <td width="65%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=s0raLin&theme=github-compact&area=true&hide_border=true" width="100%" />
-    </td>
-    <td width="35%" align="center">
-      <img alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="100%" />
-    </td>
-  </tr>
-</table>
 
 
 
