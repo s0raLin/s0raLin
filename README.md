@@ -37,7 +37,7 @@ func main() {
 </pre>
     </td>
     <td width="40%" valign="center" align="right">
-      <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="200px"/>
+      <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="100%"/>
     </td>
   </tr>
 </table>
