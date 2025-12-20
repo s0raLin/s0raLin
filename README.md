@@ -45,8 +45,31 @@ impl Developer for s0raLin {
   </tr>
 </table>
 
+---
 
+<table width="100%" border="0">
+  <tr>
+    <td width="65%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=s0raLin&theme=github-compact&area=true&hide_border=true" width="100%" />
+    </td>
+    <td width="35%" align="center">
+      <img alt="GIF" src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
+<div align="center">
+  <table width="100%" border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s0raLin&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_radius=10"/>
+      </td>
+      <td align="center" width="50%">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0raLin&layout=compact&langs_count=7&theme=tokyonight&border_radius=10"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/s0raLin/s0raLin/snake/github-contribution-grid-snake.svg" width="48%" />
