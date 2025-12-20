@@ -27,7 +27,7 @@
     </td>
     <td width="40%" valign="top">
       <h3>Coding Status 🦀</h3>
-<pre><code class="language-rust">
+<pre><code class="rust">
 impl Developer for s0raLin {
     fn info() -> Bio {
         Bio {
