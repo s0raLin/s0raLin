@@ -15,7 +15,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="35%" valign="top">
-      <h3>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/></h3>
+      <h3>Hi there </h3>
       我是 <b>蒼璃（s0raLin）</b> <br/>
       熱愛 <b>Linux / 底層原理 / 後端</b> <br/>
       <img src="https://moe-counter.glitch.me/get/@:s0raLin?theme=rule34" />
