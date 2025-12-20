@@ -49,36 +49,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0raLin&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
----
-
-![Snake animation Light](https://github.com/s0raLin/s0raLin/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 📌 Pinned Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s0raLin&repo=arch-installer-java)](https://github.com/s0raLin/arch-installer-java)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s0raLin&repo=linux-filesystem-simulator)](https://github.com/s0raLin/linux-filesystem-simulator)
-
----
-
-<details>
-<summary>💖 Other / 有趣的网站</summary>
-
-#### 🎮 在线游戏 / 模拟
-- [在线 DOS 游戏](https://dos.zczc.cz/games/)
-- [老游戏在线玩](https://zaixianwan.app/)
-- [俄罗斯方块（Flutter）](https://boyan01.github.io/flutter-tetris/#/)
-
-#### 🧠 有趣项目
-- [此人不存在](https://thispersondoesnotexist.com/)
-- [流体模拟](https://david.li/fluid)
-- [无用的网站](https://theuselessweb.com/)
-
-#### 📚 学习 / 认知
-- [全历史](https://www.allhistory.com)
-- [开发者生态系统报告](https://www.jetbrains.com/zh-cn/lp/devecosystem-2023/)
-- [性格测试](https://www.16personalities.com/)
-
-</details>
-
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
