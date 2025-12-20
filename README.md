@@ -2,7 +2,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="48"/>
   <br/>
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log('Hello, World')"&center=true&size=30&duration=4000&width=600&height=80" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log('Hello,%20World')&center=true&size=30&duration=4000&width=600&height=80" />
   </a>
 </h1>
 
@@ -28,15 +28,9 @@
     </td>
     <td width="40%" valign="top">
       <h3>Coding Status 🦀</h3>
-<pre lang="rust" style="width: 100%">
-impl Developer for s0raLin {
-    fn info() -> Bio {
-        Bio {
-            os: "Arch Linux",
-            editor: "Neovim",
-            goal: "High Performance",
-        }
-    }
+<pre lang="go" style="width: 100%">
+func main() {
+  fmt.Println("Hello, World")
 }
 </pre>
     </td>
