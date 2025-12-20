@@ -30,7 +30,9 @@
       <h3>Coding Status 🦀</h3>
 <pre lang="go" style="width: 100%">
 func main() {
-  fmt.Println("Hello, World")
+	fmt.Println("Hello, GitHub")
+	fmt.Println("I'm 蒼璃")
+	fmt.Println("Rust| Go | Kotlin | Scala | Arch Linux")
 }
 </pre>
     </td>
