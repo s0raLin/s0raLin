@@ -14,7 +14,7 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="40%" valign="top" style="padding-right: 10px;">
+    <td width="30%" valign="top" style="padding-right: 10px;">
       <h3>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/></h3>
       我是 <b>蒼璃（s0raLin）</b> <br/>
       熱愛 <b>Linux / 底層原理 / 後端</b> <br/>
@@ -25,7 +25,8 @@
       • <b>Linux:</b> <code>Arch</code> <code>Btrfs</code> <code>KDE</code><br/>
       • <b>Editor:</b> <code>Neovim</code>
     </td>
-    <td width="60%" valign="top">
+
+    <td width="45%" valign="top">
       <h3>Coding Status 🦀</h3>
 <pre lang="rust" style="width: 100%">
 impl Developer for s0raLin {
@@ -42,10 +43,13 @@ impl Developer for s0raLin {
 }
 </pre>
     </td>
+
+    <td width="25%" valign="bottom" align="right">
+      <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="100%"/>
+    </td>
   </tr>
 </table>
 
-  <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="280"/>
 <br/>
 
 <div align="center">
@@ -68,6 +72,4 @@ impl Developer for s0raLin {
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="80%"/>
-</div>
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="80%"/>
