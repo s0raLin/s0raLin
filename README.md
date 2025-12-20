@@ -26,7 +26,7 @@
       • <b>Linux:</b> <code>Arch</code> <code>Btrfs</code> <code>KDE</code><br/>
       • <b>Editor:</b> <code>Neovim</code>
     </td>
-    <td width="30%" valign="top">
+    <td width="40%" valign="top">
       <h3>Coding Status 🦀</h3>
 <pre lang="go" style="width: 100%">
 func main() {
@@ -36,7 +36,7 @@ func main() {
 }
 </pre>
     </td>
-    <td width="40%" valign="center" align="right">
+    <td width="30%" valign="center" align="right">
       <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="200px"/>
     </td>
   </tr>
