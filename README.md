@@ -76,13 +76,5 @@ impl Developer for s0raLin {
   <img src="https://github.com/s0raLin/s0raLin/main/gitartwork.svg" width="48%" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/s0raLin/your-repo-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0raLin&repo=your-repo-name&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/s0raLin/another-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=s0raLin&repo=another-repo&theme=tokyonight" />
-  </a>
-</div>
 
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
