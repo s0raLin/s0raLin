@@ -9,8 +9,6 @@
 
 ### 一个代码爱好者
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s0raLin" alt="s0raLin" /></a> </p>
-
 - 🔭 I'm currently working on **学生**
 
 - 🌱 I'm currently learning **Rust/Go/Scala/Typescript**
