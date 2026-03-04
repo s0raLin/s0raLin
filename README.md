@@ -34,27 +34,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3>💻 Backend</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,go,rust,mysql,redis,linux,docker,git" />
 </p>
-
-<h3>🗄 Database</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redis" width="40" height="40"/>
-</p>
-
-<h3>⚙ DevOps & Tools</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
-</p>>
-
 
 
 
