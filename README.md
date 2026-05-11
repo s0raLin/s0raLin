@@ -5,9 +5,6 @@
 
 <br/>
 
-<!-- 头像区域 -->
-<img src="https://avatars.githubusercontent.com/u/s0raLin?v=4" width="110" style="border-radius:50%" alt="avatar"/>
-
 <br/>
 
 <!-- 名字 -->
