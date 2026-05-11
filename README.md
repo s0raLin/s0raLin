@@ -3,7 +3,7 @@
 ## $ whoami
 `蒼璃 (s0raLin)` : **Software Engineering Student** based in China.
 
-`OS`: Arch Linux | `Shell`: Zsh (Hyprland) | `Editor`: Neovim
+`OS`: Arch Linux | `Shell`: Fish (Niri) | `Editor`: Emacs
 
 ---
 
