@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=6750A4&height=100&section=header&text=s0raLin@ArchLinux:~$%20whoami&fontSize=30&fontColor=ffffff" width="100%" />
+<p align="center">
+  <img src="https://img.shields.io/badge/s0raLin%40ArchLinux%3A~%24_whoami-6750A4?style=for-the-badge&labelColor=2b2b2b" width="100%" />
+</p>
 
 <br/>
 
