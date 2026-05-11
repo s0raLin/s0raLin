@@ -7,7 +7,7 @@
 
 ---
 
-**`[Projects]`** [MikuMusic](https://github.com/s0raLin/MikuMusic) · [Personal Blog](https://s0raLin.github.io) 
+**`[Projects]`** [M3Music](https://github.com/s0raLin/miku_music) · [Personal Blog](https://s0raLin.github.io) 
 **`[Tech]`** Rust · Go · Kotlin · Flutter · Scala
 **`[Contact]`** [Email](mailto:892581781@qq.com) · [GitHub](https://github.com/s0raLin)
 
